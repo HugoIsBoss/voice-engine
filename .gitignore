@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.DS_Store
+
+# Outputs áudio
+output/*
+!output/.gitkeep
+
+# Repositórios externos
+third_party/
+
+# Modelos e caches locais
+models/
+.cache/
+*.ckpt
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Logs
+logs/
+*.log
