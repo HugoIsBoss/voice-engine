@@ -1,0 +1,5 @@
+Olá. Este é um primeiro teste do nosso motor de voice-over.
+
+A ideia é transformar texto em voz, de forma simples, para usar em vídeos, apresentações, demos e conteúdos de marketing.
+
+Este projecto ainda é experimental, mas é uma boa base para testar vozes, qualidade e fluxo de trabalho.
